@@ -16,6 +16,7 @@
     "chat",
     "api"
   ],
+  "types": "dist/main.d.ts",
   "bugs": {
     "url": "https://github.com/Schmavery/facebook-chat-api/issues"
   },
@@ -35,7 +36,8 @@
   "devDependencies": {
     "eslint": "^4.19.1",
     "mocha": "^7.0.1",
-    "prettier": "^1.11.1"
+    "prettier": "^1.11.1",
+    "typescript": "^5.4.2"
   },
   "eslintConfig": {
     "env": {
